@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MKul0609
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python language
+- 👀 I’m interested in data analys
+- 🌱 I’m currently learning Python and MS SQL language
